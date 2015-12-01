@@ -1,3 +1,5 @@
 # JDBC_Project
-A JDBC Project using a mySQL Database
+This project was created to practice working with the Java Database Connectivity (JDBC) API in conjunctio with a MySQL database.
+
+<b>NB</b>: <i>main() resides in Login.java</i>
 
