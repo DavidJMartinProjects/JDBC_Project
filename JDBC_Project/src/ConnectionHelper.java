@@ -25,5 +25,4 @@ public class ConnectionHelper {
 			System.out.println("Exception : Unable to load JDBC Driver - " + ex);
 		}
 	}
-
 }
